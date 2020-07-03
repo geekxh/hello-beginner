@@ -2,7 +2,7 @@
 
 大家好，我是小浩。我整理了 120 多张高清思维导图。都是很大很全的精品导图，绝对没有那种几十k忽悠人的，随意展示一张：
 
-<img src="https://www.geekxh.com/demo-1.png" alt="PNG" height="200" width="200"/>
+[图片过大，点击查看](https://www.geekxh.com/demo-1.png)
 
 > 如果想查看 pdf 文件，可以直接进入目录学习。
 >
