@@ -10,7 +10,7 @@
 
 当然，如果你想一次性下载所有的脑图，扫码下方任意二维码关注后回复 **999** 即可。
 
-<img src="img/code.png" alt="小浩算法" height="150" width="150"/> <img src="img/polarisxu-qrcode-m.jpg" alt="polarisxu" height="150" width="150"/>
+<img src="img/code.png" alt="小浩算法" height="200" width="200"/> <img src="img/polarisxu-qrcode-m.jpg" alt="polarisxu" height="200" width="200"/>
 [(如果图片无法展示，点击查看)](https://www.geekxh.com/code-2.jpg)
 
 ## 分类下载
