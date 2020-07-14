@@ -2,7 +2,7 @@
 
 大家好，我们是 xmindcn，整理了 120 多张高清思维导图。都是很大很全的精品导图，绝对没有那种几十 k 忽悠人的，随意展示一张：
 
-[![图片过大，点击查看](img/demo.png)](https://www.geekxh.com/demo-1.png)
+[![如果图片无法展示，点击查看](img/demo.png)](https://www.geekxh.com/demo-1.png)
 
 如果想查看 pdf 文件，可以直接进入目录学习。
 
